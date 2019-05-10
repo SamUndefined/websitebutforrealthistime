@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://samundefined.com',
+  url: 'https://xenodochial-feynman-e834ca.netlify.com',
   title: 'Blog by SamUndefined',
   subtitle: 'Education & community contribution 👌',
   disqusShortname: '',
