@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+  siteUrl: 'https://xenodochial-feynman-e834ca.netlify.com',
   url: 'https://SamUndefined.com',
   title: 'Blog by SamUndefined',
   subtitle: 'Education & community contribution 👌',
