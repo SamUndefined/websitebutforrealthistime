@@ -1,38 +1,35 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://samundefined.com',
+  title: 'Blog by SamUndefined',
+  subtitle: 'Education & community contribution 👌',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'About',
+      path: '/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Contact',
+      path: '/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'SamUndefined',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Education & community contribution 👌',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      twitter: 'samundefineddev',
+      twitch: 'samundefined',
+      github: 'samundefined',
+      email: 'sam.undefined.dev@gmail.com',
     }
   }
 };
