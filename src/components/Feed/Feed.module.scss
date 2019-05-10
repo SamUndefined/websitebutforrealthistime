@@ -16,7 +16,7 @@
       @include margin-bottom(.5);
 
       &-link {
-        color: $color-base;
+        color: $color-secondary;
 
         &:hover,
         &:focus {
@@ -47,19 +47,21 @@
       }
 
       &-category {
+        border: 1px solid lightgrey;
+        padding: 5px 20px;
+        border-radius: 15px;
+        margin: 0 1rem;
+
         &-link {
           font-size: $typographic-small-font-size;
-          color: $color-secondary;
           font-weight: 600;
-          text-transform: uppercase;
+          color: $color-primary;
 
           &:hover,
           &:focus {
             color: $color-primary;
           }
-
         }
-
       }
 
     }
