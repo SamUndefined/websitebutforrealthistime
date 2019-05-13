@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://xenodochial-feynman-e834ca.netlify.com',
-  title: 'Blog by SamUndefined',
+  title: 'SamUndefined',
   subtitle: 'Education & community contribution 👌',
   disqusShortname: '',
   postsPerPage: 5,
