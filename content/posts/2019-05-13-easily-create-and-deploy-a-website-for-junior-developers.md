@@ -31,7 +31,7 @@ Basic HTML and CSS skills. For example: if you've created one to a few tiny web 
 ## How much will this cost?
 Hosting is free!
 
-However, if you want your own special domain, such as "dis-mah-website.com", this is usually as cheap as $12. It can also be as expensive as $50 million if you're going for something ultra-popular. Alternatively, if you're cool with having something like "dis-mah-website.*netlify*.com", then no $$$ required! The web is super cool these days.
+However, if you want your own special domain, such as "dis-mah-website.com", this is usually as cheap as \$12. It can also be as expensive as \$50 million if you're going for something ultra-popular. Alternatively, if you're cool with having something like "dis-mah-website.*netlify*.com", then no $$$ required! The web is super cool these days.
 
 ## Step by step
 Coming soon.
