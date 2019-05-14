@@ -1,6 +1,6 @@
 ---
 template: post
-title: 'Easily Create and Deploy a Website: For Junior Developers'
+title: Easily Create and Deploy a Website
 slug: easily-create-a-quick-website-for-junior-devs
 draft: false
 date: 2019-05-14T03:22:48.591Z
