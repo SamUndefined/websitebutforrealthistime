@@ -2,7 +2,7 @@
 template: post
 title: 'Easily Create and Deploy a Website: For Junior Developers'
 slug: easily-create-a-quick-website-for-junior-devs
-draft: true
+draft: false
 date: 2019-05-14T03:22:48.591Z
 description: >-
   Know only just a bit of HTML and CSS? Good news: those are all you need to
