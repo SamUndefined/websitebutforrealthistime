@@ -1,7 +1,7 @@
 ---
 template: post
-title: Easily Create and Deploy a Website
-slug: easily-create-a-quick-website-for-junior-devs
+title: Create and Deploy Your Own Website
+slug: creating-a-quick-website-for-junior-devs
 draft: false
 date: 2019-05-14T03:22:48.591Z
 description: >-
@@ -17,12 +17,12 @@ tags:
 ## Who this is for?
 Mostly anyone who wants to get a simple and cheap website out and into the world quickly.
 
-However, it's best suited to those just dipping their feet into web development and those who've newly taken the plunge.
+However, it's best suited to those just dipping their feet into web development and  to those who've newly taken the plunge.
 
 ## What skills do I need?
-Basic HTML and CSS skills. For example: if you've created one to a few tiny web pages with these two you should be good to go!
+Basic HTML and CSS skills. For example: if you've created one to a few tiny web pages with these two, you should be good to go!
 
-** Bonus Skills **
+#### Bonus Skills
 
 * `git`
 * JavaScript for a fancier site
