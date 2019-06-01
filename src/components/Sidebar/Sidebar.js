@@ -1,4 +1,3 @@
-// @flow
 import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 import Author from './Author';
@@ -6,15 +5,7 @@ import Contacts from './Contacts';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 
-type Props = {
-  +isIndex: ?boolean,
-};
-
-type PureProps = Props & {
-  +data: Object,
-};
-
-export const PureSidebar = ({ data, isIndex }: PureProps) => {
+export const PureSidebar = ({ data, isIndex }) => {
   const {
     author,
     menu
@@ -31,7 +22,7 @@ export const PureSidebar = ({ data, isIndex }: PureProps) => {
   );
 };
 
-export const Sidebar = (props: Props) => (
+export const Sidebar = (props) => (
   <StaticQuery
     query={graphql`
       query SidebarQuery {
