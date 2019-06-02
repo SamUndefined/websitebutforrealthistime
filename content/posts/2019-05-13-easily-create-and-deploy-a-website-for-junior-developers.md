@@ -1,7 +1,7 @@
 ---
 template: post
 title: Create and Deploy Your Own Website
-slug: creating-a-quick-website-for-junior-devs
+slug: creating-and-deploy-quick-website-for-beginners
 draft: false
 date: 2019-05-14T03:22:48.591Z
 description: >-
@@ -136,10 +136,10 @@ p {
 
 ### Deploy the site
 
-1. Commit it! Run `git commit -am "Initial commit"` in your terminal inside of the folder you're working in.
-2. Create a repository in GitHub for your project (name it `your_github_username.github.io`)
-3. Drag and drop your folder into your new repository
-4. Enable GitHub pages from you repository's settings
-5. Check out your site at https://your_github_username.github.io! Woot!
+1. Run `git init` in your terminal inside of the folder you're working in.
+2. Commit it! Again in the terminal, run `git commit -am "Initial commit"`.
+3. Create a repository in GitHub for your project (name it `your_github_username.github.io`). Make sure you type in your username + ".github.io" exactly for repository's name, or it won't work.
+4. Drag and drop your folder into your new repository
+5. Check out your site at https://your/_github/_username.github.io! Woot!
 
 ### Congrats! You have a website out in the wild!
