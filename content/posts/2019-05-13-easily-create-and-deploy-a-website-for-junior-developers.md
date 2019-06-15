@@ -64,7 +64,7 @@ So you have some light HTML and CSS skills (or some bravery). Let's put those to
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>title</title>
     <link rel="stylesheet" href="index.css">
   </head>
@@ -80,7 +80,7 @@ So you have some light HTML and CSS skills (or some bravery). Let's put those to
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Frankestein's Monster</title>
     <link rel="stylesheet" href="index.css">
   </head>
@@ -140,6 +140,6 @@ p {
 2. Commit it! Again in the terminal, run `git commit -am "Initial commit"`.
 3. Create a repository in GitHub for your project (name it `your_github_username.github.io`). Make sure you type in your username + ".github.io" exactly for repository's name, or it won't work.
 4. Drag and drop your folder into your new repository
-5. Check out your site at https://your\_github\_username.github.io! Woot!
+5. Check out your site at https://your_github_username.github.io! Woot!
 
 ### Congrats! You have a website out in the wild!
